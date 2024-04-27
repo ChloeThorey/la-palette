@@ -6,10 +6,10 @@ in_menu: true
 ![logo la Palette](images/LA PALETTE logo noir.png)
 
 
-## Le projet de La Palette est en construction.  
-(Ce site aussi). 
+## Le projet de La Palette 
 
  On a beaucoup d’envies, beaucoup d’énergie et un peu de temps.  
+
 On a surtout un lieu qui offre plein de possibilités.   
 Les projets déjà enclenchés sont les suivants :   
 -une micro-brasserie  
