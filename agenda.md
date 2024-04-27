@@ -13,10 +13,3 @@ Buvette et pizzas Olive sur place.
 Entrée libre !
 
 ![11mai]({% link images/WhatsApp Image 2024-04-15 at 22.24.13.jpeg %}) 
-
-![11maisite]({% link images/11maisiteinternet.jpg %})
-
-
-
-
-![11maibassedef]({% link images/11maibassedef.jpg %}) 
