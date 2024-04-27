@@ -3,7 +3,7 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-![logo la Palette](images/LA PALETTE logo noir.png)
+![logobandeau]({% link images/LAPALETTEbando.png %})
 
 ## Le projet de La Palette 
 
