@@ -1,6 +1,7 @@
 ---
 title: "Contact"
 order: 1
+in_menu: true
 ---
 Coordination du projet  
 claire@lapalette.org

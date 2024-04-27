@@ -1,6 +1,7 @@
 ---
 title: "Accueil"
 order: 0
+in_menu: true
 ---
 ![logo la Palette](images/LA PALETTE logo noir.png)
 
