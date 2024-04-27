@@ -5,7 +5,6 @@ in_menu: true
 ---
 ![logo la Palette](images/LA PALETTE logo noir.png)
 
-
 ## Le projet de La Palette 
 
  On a beaucoup d’envies, beaucoup d’énergie et un peu de temps.  
@@ -22,7 +21,8 @@ Et on rigole bien.
 
 …A suivre…
 
-![photo Palette](images/WhatsApp Image 2023-08-27 at 23.40.04 (1).jpeg) 
+![Concert]({% link images/WhatsApp Image 2023-10-02 at 08.17.58 (1).jpeg %})
+
 
 
 La Palette - 3 route de Frencq - 62630 Longvilliers 
