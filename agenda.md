@@ -16,4 +16,4 @@ Entrée libre !
 
 ![habitants]({% link images/LA PALETTE-3.jpg %})
 
-![bar ephemere]({% link images/Les mardi et vendredi d'août-2.jpg %}) 
+![barephemere]({% link images/Les mardi et vendredi d'août-2.jpg %}) 
