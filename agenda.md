@@ -3,13 +3,11 @@ title: "Agenda"
 order: 2
 in_menu: true
 ---
-La Palette rouvre enfin ses portes le 11 mai !!!
+A partir de juin, la Palette sera ouverte tous les mardis de 18h à 22h !!
 
-Rejoignez-nous pour une soirée rock à partir de 19h avec The Flying Strings et venez découvrir et déguster notre nouvelle bière Ma Cousine Agathe !  
+Rdv le 13 juillet pour un concert du festival OFF de Rock en Stock 
 
-Rdv à 19h pour célébrer le retour de la chaleur et de la musique ! 
+Rdv le 3 aout pour un concert du festival OFF de blues in Aout
 
-Buvette et pizzas Olive sur place. 
-Entrée libre !
 
-![11mai]({% link images/WhatsApp Image 2024-04-15 at 22.24.13.jpeg %}) 
+![Texte décrivant l'image]({% link images/Les mardi et vendredi d'août-2.jpg %}) 
