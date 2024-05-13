@@ -13,7 +13,3 @@ Buvette et pizzas Olive sur place.
 Entrée libre !
 
 ![11mai]({% link images/WhatsApp Image 2024-04-15 at 22.24.13.jpeg %}) 
-
-![habitants]({% link images/LA PALETTE-3.jpg %})
-
-![barephemere]({% link images/Les mardi et vendredi d'août-2.jpg %}) 
