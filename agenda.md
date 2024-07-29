@@ -17,7 +17,7 @@ RDV les:
 
 > **mardi 13 août à 19h30** pour Candide, un impromptu théâtrale
 
-> **samedi 18 août à 21h00** pour une projection en plein air "vélo ciné"
+> **dimanche 18 août à 21h00** pour une projection en plein air "vélo ciné"
 
 > **du 22 au 25 août** pour les activités du Grand Bain, programme ci-dessous
 
