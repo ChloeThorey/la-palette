@@ -5,7 +5,7 @@ in_menu: true
 ---
 ![logobandeau]({% link images/LAPALETTEbando.png %})
 
-Les évènements à venir, <a href="agenda.html">c'est tout de suite par ici</a>
+**Les évènements à venir**, <a href="agenda.html">c'est tout de suite par ici</a>
 
 La Palette est installée dans un corps de ferme au cœur du village de Longvilliers.
  On a beaucoup d’envies, beaucoup d’énergie et un peu de temps.  
