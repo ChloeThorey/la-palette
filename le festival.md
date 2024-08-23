@@ -7,7 +7,7 @@ in_menu: true
 
 La programmation du festival 2024 est arrivée ! 
 
-Mais vous pouvez déjà bloquer le samedi 28 septembre 2024 dans votre agenda ! 
+Pensez à bloquer le **samedi 28 septembre 2024 - 11h à minuit** dans votre agenda ! 
 
 ![Texte décrivant l'image]({% link images/affiche-DPPLY-2024-recto.jpg %})
 
