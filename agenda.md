@@ -8,8 +8,16 @@ Le **bar éphémère** de la Palette est ouvert tous les mardis de 18h à 22h !!
 Pour les évènements ayant lieu un mardi, l'espace ouvre quand même ses portes à partir de 18h.
 
 
+_RDV en cours :_
+> **du 22 au 25 août** pour les activités du Grand Bain, programme ci-dessous
+![Le grand bain semaine du 19 aout]({% link images/grandbainverso.jpg %})
 
-RDV les:
+_RDV à venir :_
+> **le samedi 28 septembre** pour le festival annuel de la Palette "des palettes plein les yeux"
+![Festival 2024 recto]({% link images/affiche-DPPLY-2024-recto.jpg %})
+![Festival 2024 verso]({% link images/affiche-DPPLY-2024-verso.jpg %})
+
+_RDV passés :_
 
 > **mardi 30 juillet à 19h30** : concert des King Pepper,
 
@@ -19,7 +27,7 @@ RDV les:
 
 > **dimanche 18 août à 21h00** pour une projection en plein air "vélo ciné"
 
-> **du 22 au 25 août** pour les activités du Grand Bain, programme ci-dessous
+
 
 
 
@@ -31,6 +39,4 @@ RDV les:
 
 ![Vélo ciné le 18 aout 21h00]({% link images/velocine.jpg %})
 
-![Le grand bain semaine du 19 aout]({% link images/grandbainrecto.jpg %})
-
-![Le grand bain semaine du 19 aout]({% link images/grandbainverso.jpg %}) 
+![Le grand bain semaine du 19 aout]({% link images/grandbainrecto.jpg %}) 
