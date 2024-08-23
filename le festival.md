@@ -3,18 +3,18 @@ title: "Le Festival"
 order: 3
 in_menu: true
 ---
-# _Des Palettes Plein Les Yeux_ 
+# _Des palettes plein les yeux_ 
 
-La programmation du festival 2024 est en cours ! 
+La programmation du festival 2024 est arrivée ! 
 
-Mais vous pouvez déjà bloqué le 28 septembre 2024 ! 
-On vous prépare un programme aux petits oignons... 
+Mais vous pouvez déjà bloquer le samedi 28 septembre 2024 dans votre agenda ! 
 
+![Texte décrivant l'image]({% link images/affiche-DPPLY-2024-recto.jpg %})
 
-![Affiche du festival](images/afficheDPPLY.png)
+![Texte décrivant l'image]({% link images/affiche-DPPLY-2024-verso.jpg %})
 
-Au cœur du nouveau tiers-lieu, La Palette, 
-on vous concocte un week-end bucolique avec une programmation culturelle riche et fun, 
-faite de spectacles, de concerts, d'impromptus, d'ateliers, d'exposition...
+Au cœur du tiers-lieu "La Palette", on vous concocte un samedi bucolique avec une programmation culturelle riche et fun.
 
-Vous trouverez aussi un espace de bar et restauration où vous pourrez déguster les bières de la brasserie de La Palette. 
+**Spectacles, concerts, ateliers** et même un **DJ Set** seront au rendez-vous !
+
+Vous trouverez aussi un espace bar et petite restauration où vous pourrez déguster les bières de la brasserie de La Palette. 
