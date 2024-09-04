@@ -11,7 +11,7 @@ Pensez à bloquer le **samedi 28 septembre 2024 - 11h à minuit** dans votre age
 
 ![Texte décrivant l'image]({% link images/affiche-DPPLY-2024-recto.jpg %})
 
-![Texte décrivant l'image]({% link images/affiche-DPPLY-2024-verso.jpg %})
+![Texte décrivant l'image]({% link images/affiche-DPPLY-2024-verso-v2.jpg %})
 
 Au cœur du tiers-lieu "La Palette", on vous concocte un samedi bucolique avec une programmation culturelle riche et fun.
 
