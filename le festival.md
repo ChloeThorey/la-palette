@@ -19,16 +19,17 @@ Tous les concerts et spectacles sont prix libre🤩
 Spectacle éveil musical très jeune public de 0 à 3 ans.
 
 Jauge limitée à 6 enfants.
-![Mini Format]({% link images/1.jpg %})
 
+![Mini Format]({% link images/mini-format-small.jpg %})
 <br><br>
+
 **_11h30 - Méchant !_**
 
 Cie Fais-Le Moi-Même
 
 Théâtre jeune public à partir de 4 ans.
-![Méchant]({% link images/3.jpg %})
 
+![Méchant]({% link images/mechant-small.jpg %})
 <br><br>
 
 **_14h et 17h30 - Viens, On s'tire !_**
@@ -40,7 +41,8 @@ Marionnettes
 Tout public à partir de 8 ans
 
 Jauge limitée à 30 pers
-![Marionnettes]({% link images/6.jpg %})
+
+![Marionnettes]({% link images/viens-on-se-tire-small.jpg %})
 <br><br>
 
 **_15h - Santa Pulcinella_**
@@ -50,7 +52,8 @@ Théâtre Gudule
 Marionnettes
 
 Tout public à partir de 6 ans
-![Marionnettes]({% link images/6.jpg %})
+
+![Marionnettes]({% link images/santa-pulcinella-small.jpg %})
 <br><br>
 
 **_20h - Marie Paulette_**
@@ -58,6 +61,8 @@ Tout public à partir de 6 ans
 Musique Trad Transe des familles
 
 Tout public
+
+![Bal Trad]({% link images/bal-trad-small.jpg %})
 <br><br>
 
 **_22h - VELOURS 808_**
@@ -65,6 +70,8 @@ Tout public
 DJ SET
 
 Tout public
+
+![DJ Set Velour 808]({% link images/dj-set-velour-small.jpg %})
 <br><br>
 
 ### 🤹‍♀️ATELIERS
@@ -89,10 +96,9 @@ Tout public
 🧶Crochet du droit - Laure Désert
 
 artisane d'art dans le domaine du crochet.
+<br><br>
 
- 
-
-### Marché artisans locaux :
+ Marché artisans locaux :
 
 🪵Lowa, sculpteur sur bois
 
@@ -118,4 +124,8 @@ L’association soutient celles et ceux qu'on appelle "les migrants", ces person
 
 🌊L'exposition Inondé es
 
-Suite aux inondations de l'hiver 2023/2024, le cercle des Tiers-Lieux du littoral est parti à la rencontre de personnes sinistrées afin de récolter leur témoignage écrit et photographique.  L'exposition Inondé es vous invite à les découvrir. Conserver une trace, ne pas oublier. 
+Suite aux inondations de l'hiver 2023/2024, le cercle des Tiers-Lieux du littoral est parti à la rencontre de personnes sinistrées afin de récolter leur témoignage écrit et photographique.  L'exposition Inondé es vous invite à les découvrir. Conserver une trace, ne pas oublier.
+
+![Festival recto]({% link images/affiche-DPPLY-2024-recot.jpg %})
+
+![Festival verso]({% link images/affiche-DPPLY-2024-verso-v2.jpg %}) 
