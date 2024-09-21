@@ -5,6 +5,8 @@ in_menu: true
 ---
 # _Des palettes plein les yeux_ 
 
+![Festival recto]({% link images/affiche-DPPLY-2024-recto.jpg %})
+
 🤩  Le 28 septembre se tiendra la 2eme édition du festival des Palettes Plein les Yeux.
 
 🍻🍟Bar et restauration sur place
@@ -20,7 +22,6 @@ Spectacle éveil musical très jeune public de 0 à 3 ans.
 
 Jauge limitée à 6 enfants.
 
-![Mini Format]({% link images/mini-format-small.jpg %})
 <br><br>
 
 **_11h30 - Méchant !_**
@@ -29,7 +30,6 @@ Cie Fais-Le Moi-Même
 
 Théâtre jeune public à partir de 4 ans.
 
-![Méchant]({% link images/mechant-small.jpg %})
 <br><br>
 
 **_14h et 17h30 - Viens, On s'tire !_**
@@ -42,7 +42,6 @@ Tout public à partir de 8 ans
 
 Jauge limitée à 30 pers
 
-![Marionnettes]({% link images/viens-on-se-tire-small.jpg %})
 <br><br>
 
 **_15h - Santa Pulcinella_**
@@ -53,7 +52,6 @@ Marionnettes
 
 Tout public à partir de 6 ans
 
-![Marionnettes]({% link images/santa-pulcinella-small.jpg %})
 <br><br>
 
 **_20h - Marie Paulette_**
@@ -62,7 +60,6 @@ Musique Trad Transe des familles
 
 Tout public
 
-![Bal Trad]({% link images/bal-trad-small.jpg %})
 <br><br>
 
 **_22h - VELOURS 808_**
@@ -126,6 +123,14 @@ L’association soutient celles et ceux qu'on appelle "les migrants", ces person
 
 Suite aux inondations de l'hiver 2023/2024, le cercle des Tiers-Lieux du littoral est parti à la rencontre de personnes sinistrées afin de récolter leur témoignage écrit et photographique.  L'exposition Inondé es vous invite à les découvrir. Conserver une trace, ne pas oublier.
 
-![Festival recto]({% link images/affiche-DPPLY-2024-recot.jpg %})
+![Festival verso]({% link images/affiche-DPPLY-2024-verso-v2.jpg %})
 
-![Festival verso]({% link images/affiche-DPPLY-2024-verso-v2.jpg %}) 
+![Mini Format]({% link images/mini-format-small.jpg %})
+
+![Méchant]({% link images/mechant-small.jpg %})
+
+![Marionnettes]({% link images/viens-on-se-tire-small.jpg %})
+
+![Marionnettes]({% link images/santa-pulcinella-small.jpg %})
+
+![Bal Trad]({% link images/bal-trad-small.jpg %}) 
